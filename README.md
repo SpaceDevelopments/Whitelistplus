@@ -12,4 +12,3 @@ Antes de compilar, verifique si posee los siguiente requisitos:
 
  * Java 8 o Nuevo
  * Maven
-
