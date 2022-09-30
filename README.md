@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 <img src="made-with-java.svg"/>
 
-<img src="logo.png" alt="exemplo logo">
+<img src="large-logo" alt="exemplo logo">
 
 ## 💻 Pré-requisitos
 
