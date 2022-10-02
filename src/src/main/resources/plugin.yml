@@ -1,6 +1,0 @@
-name: CustomWhitelist
-version: ${project.version}
-main: me.santicraft.custom.whitelist.customwhitelist.CustomWhitelist
-load: STARTUP
-softdepend: [PlaceholderAPI]
-authors: [SantiCraft234]
