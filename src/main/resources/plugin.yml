@@ -1,0 +1,11 @@
+name: WhitelistPlus
+version: 1.4
+author: SantiCraft234
+main: me.santicraft.custom.whitelist.CustomWhitelist
+description: A whitlist system for you server
+softdepend: 
+- PlaceholderAPI
+- TitleAPI
+commands:
+  whitelist:
+    description: Main command for WhitelistPlus
