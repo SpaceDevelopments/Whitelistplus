@@ -1,4 +1,4 @@
-# Whitelist+
+whitelistplus.*# Whitelist+
 Current version **1.4**
 
 ## Main Command
@@ -12,7 +12,7 @@ The main `/whitelist` command, which shows you the following subcommands:
 - `/whitelist reload` ➤ Reloads the configuration file
 
 ## Permissions
-The plugin has only one permission which is `whitelistremastered.admin` and allows you to access all the commnads above.
+The plugin has only one permission which is `whitelistplus.*` and allows you to access all the commnads above.
 
 ## Bug Report
 If you find any bugs in the plugin, please report them by creating an issues [here](https://github.com/SpaceDevelopments/Whitelistplus/issues/new)
