@@ -1,5 +1,7 @@
 # Whitelist+
-Current version **1.4**
+![Versions-Supported](https://img.shields.io/spiget/downloads/103636?style=for-the-badge)
+![Versions-Supported](https://img.shields.io/spiget/tested-versions/103636?style=for-the-badge) 
+![Spiget Version](https://img.shields.io/spiget/version/103636?style=for-the-badge)
 
 ## Main Command
 The main `/whitelist` command, which shows you the following subcommands:
