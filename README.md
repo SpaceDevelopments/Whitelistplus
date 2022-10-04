@@ -1,4 +1,4 @@
-whitelistplus.*# Whitelist+
+# Whitelist+
 Current version **1.4**
 
 ## Main Command
