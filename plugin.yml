@@ -1,0 +1,30 @@
+name: WhitelistPlus
+version: 1.6
+author: SantiCraft234
+main: me.santicraft.custom.whitelist.CustomWhitelist
+description: A whitlist system for you server
+website: https://www.spigotmc.org/resources/whitelistplus.103636/
+api-version: 1.13
+softdepend: [PlaceholderAPI]
+commands:
+  whitelist:
+    description: Main command for WhitelistPlus
+    permission: whitelistplus.commands.use
+    default: op
+    usage: 
+
+permissions:
+  whitelistplus.*:
+    description: Permission for all.
+  Usage: 
+    children:
+      whitelistplus.bypass: true
+      whitelistplus.commands.use: true
+
+  whitelistplus.bypass:
+    description: Permission for bypass the whitelist.
+    default: op
+
+  whitelistplus.commands.use:
+    description: Permission for all commands.
+    default: op

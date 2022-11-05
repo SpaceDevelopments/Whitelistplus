@@ -1,0 +1,33 @@
+# Whitelist+ by SantiCraft234                                                    #
+# Spigot Page https://www.spigotmc.org/resources/whitelistplus.103636/           #
+
+whitelist: false
+no_whitelisted: '&fWhitelist&b+ &aYou are not important enough to be whitelisted.'
+whitelisted:
+- santicraft234yt
+- md_5
+
+Settings:
+  Prefix: '&fWhitelist&b+'
+  Broadcast-Message: false
+  Bypass: false
+  OP-Bypass: true
+  Kick-All: true
+  
+Messages:
+  no-permission: '&4No permission :)'
+  unknown-command: '&cCommand not found'
+  whitelist-on: Whitelist is now &a&lON&f!
+  whitelist-off: '&fWhitelist is now &c&lOFF&f!'
+  requiere-name: '&7Please enter a name!'
+  Whitelist-Add: '&7%player% &fAdded of the Whitelist'
+  Whitelist-Remove: '&7%player% &fRemoved of the Whitelist'
+  Whitelist-List: '&7&lPlayers Whitelisted: &7%players%'
+  
+Broadcast-Messages:
+  whitelist-on: "&f[&7Announced&f] &fThe &fwhitelist is now &a&lON&f!"
+  whitelist-off: "&f[&7Announced&f] &fThe &fwhitelist is now &c&lOFF&f!"
+
+Placeholder_messages:
+  enabled: "&2ENABLED"
+  disabled: "&4DISABLED"
